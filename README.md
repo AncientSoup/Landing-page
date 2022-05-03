@@ -1,5 +1,5 @@
 # TOP Project 2 - Landing page
-> Status: Live as student solution
+> Status: Live as a student solution
 
 ## Description
 Static website that imitates most landing pages.  
